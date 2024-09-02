@@ -38,9 +38,9 @@ public class Main {
               case 4:
                 System.out.println("Opção inválida. Tente novamente.");
                 break;
-            } while (opcao != 4);
-
-            scanner.close(); //scanner é fechado para liberar os recursos
+            } 
         }
+        while (opcao != 4);
+         scanner.close(); //scanner é fechado para liberar os recursos
     }
 }

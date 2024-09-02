@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 //essas importações me permitem adquirir as funções de Array, List e Scanner utilizadas no código.
 

@@ -1,5 +1,9 @@
 package edu.alexandre.primeirasemana;
 
 public class teste {
-    System.Out.println("Oie");
+    public static void main(String[] args) {
+        System.out.print("Digite um valor: ");
+        
+        
+    }
 }

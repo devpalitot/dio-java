@@ -1,7 +1,7 @@
 package edu.alexandre.primeirasemana;
 import java.util.Scanner; //scanner é essencial para a entrada e leitura de dados. 
 
-public class teste {
+public class calculosimple {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); //nessa linha acontece a criação do objeto scanner
         

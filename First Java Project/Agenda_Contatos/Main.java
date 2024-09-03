@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        java.util.Scanner scanner = new Scanner(System.in); //Cria um objeto Scanner para ler a entrada do usuário.
+        Scanner scanner = new Scanner(System.in); //Cria um objeto Scanner para ler a entrada do usuário.
         Agenda agenda = new Agenda(); //Cria um objeto Agenda para armazenar e gerenciar contatos.
         int opcao;
 
